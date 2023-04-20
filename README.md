@@ -1,4 +1,4 @@
-# I-am-SureThing123
+SureThing123
 
 ### Profile visits
 <p> <img src="https://profile-counter.glitch.me/SureThing123/count.svg" /> </p>  
